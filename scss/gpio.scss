@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+.wrapper {
+  width: 360px;
+  margin: 0px auto 0px auto;
+  .menus {
+    .line {
+    }
+  }
+
+  .pins {
+    .pin {
+      width: 300px;
+      .modes-menus {
+        display: none;
+      }
+    }
+  }
+}
